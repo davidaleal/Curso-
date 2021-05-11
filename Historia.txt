@@ -11,5 +11,8 @@ le gusta leer
 
 Va a suscribirse a platzi
 el otro mes
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> c6b5dce1ae9dc02876cd23b3a7d3724fa573091b

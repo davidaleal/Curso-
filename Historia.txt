@@ -1,8 +1,15 @@
 
 
-Esta es la historia de David, tiene 29 años, vive en Bogota
+Esta es la historia de David, tiene 29 años, vive en Bogota, en el occidente
+esta aprendiendo Python
 Esta haciendo el curso de GIT
 
 
 Esta en Platzi
 le gusta leer
+
+
+Va a suscribirse a platzi
+el otro mes
+
+
